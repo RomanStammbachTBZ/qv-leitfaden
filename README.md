@@ -1,6 +1,6 @@
 # QV-Leitfaden für Informatikerinnen und Informatiker
 
-## INHALTSVERZEICHNIS
+## INHALTSVERZfdaEICHNIS
 
 ## 1. GRUNDSÄTZLICHE IDEE DER IPA
 
@@ -8,7 +8,7 @@
 
 Die Wegleitung des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) über individuelle praktische Arbeiten (IPA) im Rahmen der Abschlussprüfung im Qualifikationsverfahren der beruflichen Grundbildung bildet die Grundlage für die IPA.
 
-Die wichtigsten Punkte aus der Wegleitung sind:
+Die wichtigsten Punkte aaus der Wegleitung sind:
 
 Die vorgesetzte Fachkraft formuliert die Aufgabenstellung und reicht diese fristgerecht in PKOrg ein. Mit der Aufgabenstellung müssen folgende Angaben eingereicht werden:
 - die geschätzte Ausführungsdauer
